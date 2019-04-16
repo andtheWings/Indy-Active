@@ -1,0 +1,82 @@
+﻿,"Marion, IN",Composite of Peers,"Cook, IL","Wayne, MI","Hamilton, OH","St. Louis City, MO","Jefferson, KY","Cuyahoga, OH","Franklin, OH"
+# Health Outcomes,,,,,,,,,
+## Length of Life,,,,,,,,,
+Premature death,"9,800","9,442.86","6,900","10,500","9,100","12,700","9,800","9,000","8,100"
+Life expectancy,75.7,76.41,79.3,75.3,76.5,73.9,75.8,77,77.1
+Premature age-adjusted mortality,460,438.57,340,490,420,560,450,420,390
+Child mortality,70,72.86,60,70,70,100,60,70,80
+Infant mortality,8,8.57,7,10,9,9,7,9,9
+## Quality of Life,,,,,,,,,
+Poor or fair health,0.18,0.18,0.18,0.19,0.16,0.24,0.19,0.16,0.16
+Poor physical health days,3.8,3.99,3.6,4.3,3.8,5,3.9,3.7,3.6
+Poor mental health days,4.1,4.17,3.6,4.6,4,5,4.1,3.7,4.2
+Low birthweight,0.09,0.10,0.09,0.11,0.10,0.12,0.09,0.11,0.09
+Frequent physical distress,0.12,0.12,0.11,0.13,0.11,0.15,0.12,0.11,0.11
+Frequent mental distress,0.13,0.13,0.11,0.14,0.13,0.15,0.13,0.12,0.13
+Diabetes prevalence,0.11,0.11,0.09,0.12,0.11,0.13,0.12,0.12,0.10
+HIV prevalence,571,521.29,586,453,389,"1,110",274,406,431
+# Health Factors,,,,,,,,,
+## Health Behaviors,,,,,,,,,
+Adult smoking,0.21,0.19,0.14,0.20,0.18,0.25,0.19,0.21,0.19
+Adult obesity,0.32,0.31,0.27,0.34,0.28,0.35,0.33,0.30,0.29
+Food environment index,6.6,7.00,8.3,6.6,6.7,5.9,7.5,7,7
+Physical inactivity,0.25,0.23,0.21,0.25,0.21,0.25,0.24,0.23,0.22
+Access to exercise opportunities,0.88,0.96,0.99,0.94,0.95,0.98,0.90,0.97,0.96
+Excessive drinking,0.19,0.20,0.22,0.20,0.19,0.21,0.19,0.17,0.20
+Alcohol-impaired driving deaths,0.18,0.34,0.32,0.27,0.42,0.30,0.30,0.42,0.33
+Sexually transmitted infections,"1,045.20",854.69,783.8,800.4,856.2,"1,279.40",683.7,803.4,775.9
+Teen births,39,30.71,27,32,28,42,31,28,27
+Food insecurity,0.18,0.18,0.13,0.21,0.18,0.25,0.16,0.19,0.17
+Limited access to healthy foods,0.09,0.05,0.02,0.04,0.09,0.03,0.04,0.04,0.07
+Drug overdose deaths,33,38.29,19,38,47,56,39,40,29
+Motor vehicle crash deaths,11,8.71,6,9,7,12,12,6,9
+Insufficient sleep,0.35,0.37,0.33,0.42,0.39,0.37,0.36,0.36,0.37
+## Clinical Care,,,,,,,,,
+Uninsured,0.11,0.08,0.09,0.07,0.06,0.13,0.06,0.06,0.08
+Primary care physicians,"1,220:1",38.75,"1,050:1","1,420:1",910:01:00,"1,140:1","1,040:1",890:01:00,990:01:00
+Dentists,"1,140:1",40.00,"1,120:1","1,460:1","1,370:1","1,840:1",960:01:00,960:01:00,"1,150:1"
+Mental health providers,380:01:00,14.41,410:01:00,370:01:00,300:01:00,310:01:00,350:01:00,300:01:00,380:01:00
+Preventable hospital stays,"4,990","5,731.71","5,108","7,770","4,777","6,240","5,633","5,902","4,692"
+Mammography screening,0.38,0.41,0.39,0.38,0.46,0.38,0.44,0.42,0.42
+Flu vaccinations,0.47,0.46,0.44,0.43,0.50,0.40,0.49,0.46,0.49
+Uninsured adults,0.13,0.10,0.12,0.09,0.08,0.15,0.07,0.08,0.09
+Uninsured children,0.05,0.03,0.03,0.03,0.03,0.04,0.02,0.03,0.04
+Other primary care providers,756:01:00,28.50,"1,410:1","1,366:1",751:01:00,481:01:00,602:01:00,694:01:00,892:01:00
+## Social & Economic Factors,,,,,,,,,
+High school graduation,0.76,0.83,0.92,0.83,0.87,0.56,0.88,0.86,0.89
+Some college,0.62,0.69,0.70,0.61,0.71,0.72,0.69,0.69,0.72
+Unemployment,0.04,0.05,0.05,0.05,0.04,0.04,0.04,0.06,0.04
+Children in poverty,0.25,0.26,0.21,0.33,0.25,0.33,0.20,0.27,0.23
+Income inequality,4.8,5.49,5.6,5.8,5.6,6.1,4.9,5.7,4.7
+Children in single-parent households,0.47,0.45,0.37,0.48,0.43,0.60,0.41,0.45,0.41
+Social associations,11.8,9.64,7.1,7.1,10.7,13.8,10,9.2,9.6
+Violent crime,"1,251",800.71,620,"1,016",468,"1,820",612,646,423
+Injury deaths,89,88.29,57,91,88,129,94,86,73
+Disconnected youth,0.09,0.07,0.08,0.11,0.06,0.09,0.06,0.07,0.05
+Median household income,"$47,600 ","51,971.43","$61,400 ","$45,200 ","$55,200 ","$40,900 ","$55,000 ","$46,900 ","$59,200 "
+Children eligible for free or reduced price lunch,0.65,0.56,0.64,0.60,0.38,0.94,0.60,0.36,0.40
+Residential segregation - Black/White,53,66.43,78,79,62,64,54,72,56
+Residential segregation - non-white/white,47,55.71,52,70,55,59,47,62,45
+Homicides,15,15.57,12,19,10,37,11,11,9
+Firearm fatalities,23,20.14,14,21,15,43,19,15,14
+## Physical Environment,,,,,,,,,
+Air pollution - particulate matter,12.8,12.74,15,11.4,13.1,11.5,12.9,13.2,12.1
+Drinking water violations,No,,No,No,No,No,No,No,No
+Severe housing problems,0.19,0.19,0.23,0.21,0.18,0.23,0.15,0.18,0.17
+Driving alone to work,0.82,0.77,0.62,0.81,0.80,0.72,0.81,0.80,0.81
+Long commute - driving alone,0.29,0.32,0.52,0.35,0.30,0.28,0.25,0.32,0.25
+Homeownership,0.54,0.57,0.57,0.62,0.58,0.44,0.62,0.59,0.54
+Severe housing cost burden,0.17,0.17,0.19,0.19,0.15,0.21,0.13,0.16,0.14
+# Demographics,,,,,,,,,
+Population,"950,082","1,628,425.71","5,211,263","1,753,616","813,822","308,626","771,158","1,248,514","1,291,981"
+% below 18 years of age,0.25,0.22,0.22,0.24,0.23,0.19,0.22,0.21,0.23
+% 65 and older,0.12,0.15,0.14,0.15,0.15,0.13,0.16,0.18,0.12
+% Non-Hispanic African American,0.28,0.30,0.23,0.39,0.26,0.46,0.22,0.30,0.23
+% American Indian and Alaskan Native,0.01,0.00,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+% Asian,0.03,0.04,0.08,0.03,0.03,0.03,0.03,0.03,0.05
+% Native Hawaiian/Other Pacific Islander,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+% Hispanic,0.11,0.08,0.26,0.06,0.03,0.04,0.05,0.06,0.06
+% Non-Hispanic white,0.56,0.56,0.42,0.50,0.65,0.44,0.68,0.59,0.63
+% not proficient in English,0.04,0.03,0.07,0.03,0.01,0.02,0.02,0.02,0.02
+% Females,0.52,0.52,0.51,0.52,0.52,0.52,0.52,0.52,0.51
+% Rural,0.01,0.01,0.00,0.01,0.02,0.00,0.01,0.01,0.01
